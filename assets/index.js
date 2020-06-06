@@ -6,7 +6,7 @@ function clockManipulation(){
     
     var d;
     
-    if(h>12){
+    if(h>=12){
         d = "PM";
     }
     else{
