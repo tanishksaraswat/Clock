@@ -1,9 +1,7 @@
 #clock {
-    margin: 100px;
-    text-align: center;
-    font-size: 5rem;
-      font-weight: bold;
-      margin-bottom: 1rem;
-  }
-  
-  
+  margin: 250px;
+  text-align: center;
+  font-size: 5em;
+	font-weight: bold;
+}
+
